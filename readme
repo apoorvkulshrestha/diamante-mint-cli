@@ -1,7 +1,7 @@
 # Diamante Minting Service CLI
 
 ## Overview
-The Diamante Minting Service CLI is a command-line interface designed to interact with the Diamante blockchain network, facilitating seamless minting, account management, and asset transactions. Built on the foundation mirroring Stellar's network architecture, this tool introduces functionalities tailored to Diamante's unique features, empowering users to engage with digital assets on the Diamante network efficiently.
+The Diamante Minting Service CLI is a command-line interface designed to interact with the Diamante blockchain network, facilitating seamless minting, account management, and asset transactions. This tool introduces functionalities tailored to Diamante's unique features, empowering users to engage with digital assets on the Diamante network efficiently.
 
 ## Features
 - **Account Creation**: Simplify the process of creating new blockchain accounts, equipped with initial balance setups.
