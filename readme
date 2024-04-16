@@ -1,0 +1,23 @@
+# Diamante Minting Service CLI
+
+## Overview
+The Diamante Minting Service CLI is a command-line interface designed to interact with the Diamante blockchain network, facilitating seamless minting, account management, and asset transactions. Built on the foundation mirroring Stellar's network architecture, this tool introduces functionalities tailored to Diamante's unique features, empowering users to engage with digital assets on the Diamante network efficiently.
+
+## Features
+- **Account Creation**: Simplify the process of creating new blockchain accounts, equipped with initial balance setups.
+- **Asset Minting**: Enable the issuance of new assets, supporting operations from issuance to distribution.
+- **Trustline Establishment**: Allow accounts to establish trustlines with new assets, enabling them to hold and transact these assets.
+- **Account Locking**: Support the secure practice of locking issuer accounts post-minting, enhancing asset security.
+
+## Prerequisites
+Before you begin, ensure you have the following:
+- Go 1.15 or later installed on your machine
+- Access to a Diamante blockchain node, either on the testnet or mainnet
+
+## Installation
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/diamante-minting-service-cli.git
+cd diamante-minting-service-cli
+go build .
